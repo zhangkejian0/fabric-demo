@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8551150",
+      "name": "1线段",
+      "font_class": "xianduan",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "14718732",
+      "name": "tx-椭圆形",
+      "font_class": "tx-tuoyuanxing",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "14718738",
+      "name": "tx-正方形",
+      "font_class": "tx-zhengfangxing",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    }
+  ]
+}
